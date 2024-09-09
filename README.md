@@ -4,14 +4,14 @@
 
 Esta es una demostración del uso de **Gemini Nano** a través de **Chrome Canary** utilizando JavaScript. Este proyecto muestra cómo integrar funcionalidades de IA en aplicaciones web.
 
-## Links:
+## Links
 
 1. [Instalar Chrome Canary](https://www.google.com/chrome/canary/)
 2. [Chrome for Developer : Built-in AI](https://developer.chrome.com/docs/ai/built-in?authuser=1)
 3. [Google Built-in AI Early Preview Program](https://docs.google.com/document/d/1WZlAvfrIWDwzQXdqIcCOTcrWLGGgmoesN1VGFbKU_D4/edit?pli=1)
 4. [Specs API](https://github.com/WICG/writing-assistance-apis/blob/main/README.md)
 
-## Code demo:
+## Code demo
 
 ```javascript
 // Function to create and show the loading spinner
